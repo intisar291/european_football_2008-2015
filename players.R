@@ -1,6 +1,6 @@
 
 # connect to database
-db_file="F:/Study/ORBA/Visual Analytics/Exercise 2022 (Ex. 5 & 7 not given)/database/EuropeanFootball.sqlite"
+db_file="file_path/to/EuropeanFootball.sqlite"
 con <- dbConnect(SQLite(), dbname = db_file)
 
 player<- tibble::as_tibble(dbGetQuery(con,"SELECT * FROM Player"))
