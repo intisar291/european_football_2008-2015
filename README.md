@@ -24,7 +24,7 @@ Visualization &amp; analysis on european football from 2008-2015 data
 ![volly and reaction with foot](https://user-images.githubusercontent.com/83521671/226183683-f71769c4-fcac-4410-82c5-bb9371296653.png)
 
 
-#### defensive workrate of players with respect to their long pass and aggression.
+#### Defensive workrate of players with respect to their long pass and aggression.
 
 ![aggression and long pass with defensive work rate](https://user-images.githubusercontent.com/83521671/226183818-dd2bddbf-9d9c-46ea-a1d1-d2a7511b04ea.png)
 
