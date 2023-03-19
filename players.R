@@ -1,10 +1,3 @@
-library(RSQLite)
-library(stringr)
-library(ggplot2)
-library(dplyr)
-library(tidyr)
-library(forcats)
-library(lubridate)
 
 # connect to database
 db_file="F:/Study/ORBA/Visual Analytics/Exercise 2022 (Ex. 5 & 7 not given)/database/EuropeanFootball.sqlite"
