@@ -13,7 +13,7 @@ Visualization &amp; analysis on european football from 2008-2015 data
 
 ![goal_scoring_months](https://user-images.githubusercontent.com/83521671/226183181-7c10607e-0c52-4921-a391-bf76ab87b04f.png)
 
-## Based on "Player","Player_Attribute" table where the season is based on only *2015*
+## Based on "Player","Player_Attribute" table, only *2015* season
 
 #### Relation between the agility and height of a player
 
