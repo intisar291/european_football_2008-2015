@@ -42,5 +42,11 @@ Visualization &amp; analysis on european football from 2008-2015 data
 
 ![Dp vsCp](https://user-images.githubusercontent.com/83521671/227262170-d0fcc0f4-65f7-42e0-9b9a-a25aa8151e34.png)
 
+#### Measurment in between Positioning play style and defencive width of the teams
 
+![Position vs width](https://user-images.githubusercontent.com/83521671/227263006-9878913b-67f9-4bfb-9677-3ccb53f1810f.png)
+
+#### Chance creation value from passing with respect to buildup passing style  for the teams with more shooting records.
+
+![cahnce pass   build pass](https://user-images.githubusercontent.com/83521671/227264239-676aead6-2c3f-4d5b-afbd-710badcff871.png)
 
