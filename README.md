@@ -1,6 +1,6 @@
 # european_football_2008-2015
 Visualization &amp; analysis on european football from 2008-2015 data
-## Based On "Match" and "League" table
+## Based On "Match", "League" table
 #### Average goal scored by top 5 leagues in the european football.
 
 ![avg_goal](https://user-images.githubusercontent.com/83521671/226182774-dc703920-0d45-4a5a-90f2-fdcce11ff2ef.png)
@@ -12,6 +12,8 @@ Visualization &amp; analysis on european football from 2008-2015 data
 #### Goal scoring months for the players
 
 ![goal_scoring_months](https://user-images.githubusercontent.com/83521671/226183181-7c10607e-0c52-4921-a391-bf76ab87b04f.png)
+
+
 
 ## Based on "Player","Player_Attribute" table, only *2015* season
 
@@ -27,4 +29,18 @@ Visualization &amp; analysis on european football from 2008-2015 data
 #### Defensive workrate of players with respect to their long pass and aggression.
 
 ![aggression and long pass with defensive work rate](https://user-images.githubusercontent.com/83521671/226183818-dd2bddbf-9d9c-46ea-a1d1-d2a7511b04ea.png)
+
+
+
+## Based on "Team", "Team_Attributes" tables
+
+#### Mean of defensive aggression & buildup speed of teams which have more chance created from risky pass and lots of crosses 
+
+![mean defence   mean buildup](https://user-images.githubusercontent.com/83521671/227256142-6b9346ae-de8b-42f0-bc1f-139f7b53b280.png)
+
+#### Visualization of Defennsive pressure and chance creation by passes.  They are shown on classes instead of numeric value.
+
+![Dp vsCp](https://user-images.githubusercontent.com/83521671/227262170-d0fcc0f4-65f7-42e0-9b9a-a25aa8151e34.png)
+
+
 
