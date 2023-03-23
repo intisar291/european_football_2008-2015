@@ -48,5 +48,6 @@ Visualization &amp; analysis on european football from 2008-2015 data
 
 #### Chance creation value from passing with respect to buildup passing style  for the teams with more shooting records.
 
-![cahnce pass   build pass](https://user-images.githubusercontent.com/83521671/227264239-676aead6-2c3f-4d5b-afbd-710badcff871.png)
+![Rplot01](https://user-images.githubusercontent.com/83521671/227266386-1ab1a441-ec71-41d6-aae0-b09d1d320b5b.png)
+
 
