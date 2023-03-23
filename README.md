@@ -40,7 +40,7 @@ Visualization &amp; analysis on european football from 2008-2015 data
 
 #### Visualization of Defennsive pressure and chance creation by passes.  They are shown on classes instead of numeric value.
 
-![Dp vsCp](https://user-images.githubusercontent.com/83521671/227262170-d0fcc0f4-65f7-42e0-9b9a-a25aa8151e34.png)
+![Dp vs Cp](https://user-images.githubusercontent.com/83521671/227267545-6efeb4c3-15a5-492a-84f6-e9b18e6c91da.png)
 
 #### Measurment in between Positioning play style and defencive width of the teams
 
